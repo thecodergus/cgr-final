@@ -1,4 +1,4 @@
-# cloth_sim_rs
+# Trabalho final de CGR
 Uma simulação de tecido baseada em integração verlet.
 Esta é a versão mais nova e com mais recursos da simulação de tecido.
 Um áudio **muito** básico foi adicionado.
