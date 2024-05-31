@@ -45,6 +45,3 @@ Teclas adicionais:
 
 *LMB = Botão esquerdo do mouse
 *RMB = Botão direito do mouse
-# cgr-final
-# cgr-final
-# cgr-final
